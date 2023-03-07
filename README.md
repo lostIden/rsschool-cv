@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lostIden.github.io/rsschool-cv/
