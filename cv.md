@@ -41,3 +41,8 @@ function multiply(a, b){
 
 * Creation of modern responsive websites. [HTML5, CSS3](https://www.udemy.com/course/web-professional-html5/)
 * An intense [JavaScript dive (in progress)](https://www.udemy.com/course/intensive-js/)
+
+## Languages
+
+* Russian - Native
+* English - A2 (Pre-Intermediate)
