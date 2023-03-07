@@ -7,9 +7,9 @@
 
 * Phone: +375 29 204-55-49
 * E-mail: romanbartoshv@gmail.com
-* Telegram: @zeosevenz
+* Telegram: @lostIden
 * Linkidin: [Linkidin](https://www.linkedin.com/in/roman-bartosh-9887601a3/)
-* GitHub: [GitHub](https://github.com/ayanakoji1)
+* GitHub: [GitHub](https://github.com/lostIden)
 
 ## Briefly About Myself
 
@@ -36,3 +36,8 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+## Courses
+
+* Creation of modern responsive websites. [HTML5, CSS3](https://www.udemy.com/course/web-professional-html5/)
+* An intense [JavaScript dive (in progress)](https://www.udemy.com/course/intensive-js/)
